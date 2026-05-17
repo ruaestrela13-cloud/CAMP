@@ -3,3 +3,9 @@ node_modules/
 .env
 .env.*
 отзывы/
+*.log
+__pycache__/
+*.pyc
+generated/
+.ssh/
+.tools/
